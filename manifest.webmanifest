@@ -1,8 +1,8 @@
 {
   "name": "cunina",
   "short_name": "cunina",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "theme_color": "#8C6FEC",
+  "background_color": "#fff",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
